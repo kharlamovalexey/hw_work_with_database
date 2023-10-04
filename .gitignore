@@ -11,9 +11,11 @@ __pycache__/
 env/
 venv/
 .venv/
+migrations/
 
 ### Project specific ###
 settings_local.py
 
 ### OS specific ###
 .DS_Store
+.gitignore
